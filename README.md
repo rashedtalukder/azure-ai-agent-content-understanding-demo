@@ -30,13 +30,14 @@ You'll be using an Azure AI services deployment, which includes Content Understa
 
 ### 2.1 Clone the Repository
 ```bash
-git clone https://github.com//rashedtalukder/ai-gbb-learning-shop.git
+git clone https://github.com//rashedtalukder/azure-ai-agent-content-understanding-demo.git
 cd travel_planner
 ```
 
 ### 2.2 Load Conda Environment and Install Required Python Packages
 ```bash
-conda activate ai-gbb-workshop
+conda create -n demo python=3.11
+conda activate demo
 pip install -r requirements.txt
 ```
 
