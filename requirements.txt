@@ -1,0 +1,9 @@
+asyncio
+azure-identity
+azure-core
+azure-ai-projects
+python-dotenv
+requests
+markdown-pdf
+fpdf2
+aiohttp
